@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"path": "..\\idea\\idea_cbt"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\file-crypt"
+		},
+		{
+			"path": "..\\Implementation"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "classes",
+		"git.ignoreLimitWarning": true,
+		"python.dataScience.jupyterServerURI": "local"
+	}
+}

@@ -1,0 +1,18 @@
+span
+{
+    color: white;
+}
+
+#chat_box
+{
+/*    width: 90%;*/
+    height:100%;
+    margin-top: 4px;
+}
+
+.form-group
+{
+    margin-bottom: 10px;
+    margin-top: 5px;
+    color: white;
+}
